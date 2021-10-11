@@ -1,0 +1,25 @@
+{
+  "name": "react-pomodoro",
+  "version": "1.0.0",
+  "description": "Bievenue sur ce repo ! Il a été créé dans le cadre de la formation Becode. Il s'agit d'un exercice pour créer un timer pomodoro avec react",
+  "main": "src/index.js",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0",
+    "react-dom": "^17.0.2",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraLucas3/react-pomodoro.git"
+  },
+  "author": "Laura Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraLucas3/react-pomodoro/issues"
+  },
+  "homepage": "https://github.com/LauraLucas3/react-pomodoro#readme"
+}
